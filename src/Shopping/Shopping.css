@@ -1,0 +1,96 @@
+#head{
+    margin-left: 80px ;
+}
+.header{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(67, 67, 226);
+}
+.items{
+    display: flex;
+    width: 1150px;
+    
+}
+.watche{
+    width: 180px;
+    height: 300px;
+    border: 2px solid rgb(0, 0, 0);
+    margin-left: 80px;
+    margin-top: 50px;
+    justify-content: space-between;
+  
+}
+.watchimg{
+ width: 150px;
+ height: 200px;
+ margin-left: 20px;
+ margin-top: 10px;
+}
+
+
+.watchlist{
+    border: 3px solid rgb(211,211,211);
+    width: 260px;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.headlist{
+margin-left: 70px;
+}
+.total{
+    margin-left: 30px;
+    margin-top: 10px;
+    display: inline-flex;
+   
+}
+.payer{
+    margin-top: 10px;
+   margin-left: 85px;
+    color: rgb(0, 106, 0);
+    width: 100px;
+}
+
+
+.List img{
+    width: 50px;
+    height: 50px;
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+.List div{
+   width: 224px;
+   height: auto;
+   margin-left: 10px;
+   display: inline-flex;
+}
+.Leg{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(67, 67, 226);
+    margin-top: 120px;
+}
+.delatebutton{
+    margin-left: 165px;
+    margin-top: 20px;
+}
+.delatebutton1{
+    margin-left: 5px;
+    margin-top: 20px;
+    background-color: rgb(228, 34, 34);
+}
+
+.btn1{
+    width: 50px;
+    height: 30px;
+    background-color: rgb(153, 235, 153);
+    margin-left: 3px;
+}
+.buttonsdelate{
+    display: inline-flex;
+}
+.inputtotale{
+    width: 29px;
+    border: none;
+    margin-left: 3px;
+}
